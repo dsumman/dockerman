@@ -1,0 +1,16 @@
+{
+  "name": "dockerman",
+  "version": "1.0.0",
+  "description": "dockerman helps you set up a development container with external volume easily in Docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daljit Summan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-shell": "^2.1.0",
+    "grunt-string-replace": "^1.3.1"
+  }
+}
